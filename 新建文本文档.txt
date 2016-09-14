@@ -1,16 +1,16 @@
-±í £º weixin_commonshop_products
-²úÆ·Ãû×Ö:name
-Á¥Êô·ÖÀà:type_id
-Ô­¼Û:orgin_price
-ÏÖ¼Û:now_price
-³É±¾¼Û:for_price
-¹©»õ¼Û:cost_price
-²úÆ·ÖØÁ¿:weight
-ËùĞè»ı·Ö:need_score
-¿â´æ:storenum
-ĞéÄâÏúÊÛÁ¿:show_sell_count
-²úÆ··ÖÓ¶±ÈÀı:pro_reward
-²úÆ·°²×°·Ñ:install_price
-´úÀíÕÛ¿ÛÂÊ:agent_discount
-·µÏÖ½ğ¶î£¨¹Ì¶¨½ğ¶î£©:cashback
-·µÏÖ½ğ¶î£¨²úÆ·¼Û¸ñ°´±ÈÀı£©:cashback_r
+è¡¨ ï¼š weixin_commonshop_products
+äº§å“åå­—:name
+éš¶å±åˆ†ç±»:type_id
+åŸä»·:orgin_price
+ç°ä»·:now_price
+æˆæœ¬ä»·:for_price
+ä¾›è´§ä»·:cost_price
+äº§å“é‡é‡:weight
+æ‰€éœ€ç§¯åˆ†:need_score
+åº“å­˜:storenum
+è™šæ‹Ÿé”€å”®é‡:show_sell_count
+äº§å“åˆ†ä½£æ¯”ä¾‹:pro_reward
+äº§å“å®‰è£…è´¹:install_price
+ä»£ç†æŠ˜æ‰£ç‡:agent_discount
+
+66666
