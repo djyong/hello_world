@@ -1,0 +1,16 @@
+表 ： weixin_commonshop_products
+产品名字:name
+隶属分类:type_id
+原价:orgin_price
+现价:now_price
+成本价:for_price
+供货价:cost_price
+产品重量:weight
+所需积分:need_score
+库存:storenum
+虚拟销售量:show_sell_count
+产品分佣比例:pro_reward
+产品安装费:install_price
+代理折扣率:agent_discount
+返现金额（固定金额）:cashback
+返现金额（产品价格按比例）:cashback_r
